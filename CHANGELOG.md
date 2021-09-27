@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/nowotato/leetcode/compare/v1.0.2...v1.0.3) (2021-09-27)
+
+
+### Bug Fixes
+
+* Added solution that doesn't use regex to 8. String to Integer (atoi). ([cdf609b](https://github.com/nowotato/leetcode/commit/cdf609bd4a702fe63ad19e23006d8e756ddaafe1))
+* Added solution to 10. Regular Expression Matching. ([9449721](https://github.com/nowotato/leetcode/commit/94497214ee2c8c8aea430598ef16207584b8b00a))
+* Removed unnecessary variable definitions. ([9dec50f](https://github.com/nowotato/leetcode/commit/9dec50f73e982fcf9bdf3ccd5ddca23f7b7fc574))
+
 ### [1.0.2](https://github.com/nowotato/leetcode/compare/v1.0.1...v1.0.2) (2021-09-26)
 
 
