@@ -29,5 +29,3 @@ var myAtoi = function(s) {
 	// copy number
 	return Math.max(Math.min(new Number(s.substring(start, end)) * factor, 2147483647), -2147483648);
 };
-
-console.log(myAtoi("  -249255559825"));
