@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/nowotato/leetcode/compare/v1.0.3...v1.0.4) (2021-09-28)
+
+
+### Bug Fixes
+
+* Added solution 2. Add Two Numbers. ([4b82582](https://github.com/nowotato/leetcode/commit/4b82582323ac959670179d5260993be7ff640add))
+* Added solution for 11. Container With Most Water. ([5c560d1](https://github.com/nowotato/leetcode/commit/5c560d140247255775f9c3aa4757da71fdd52415))
+* Added solution to 12. Integer to Roman. ([76d3ede](https://github.com/nowotato/leetcode/commit/76d3ede2e39bf390501cef65b45991b72ece4f77))
+
 ### [1.0.3](https://github.com/nowotato/leetcode/compare/v1.0.2...v1.0.3) (2021-09-27)
 
 
