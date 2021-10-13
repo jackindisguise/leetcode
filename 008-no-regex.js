@@ -15,7 +15,7 @@ var myAtoi = function(s) {
 	if(s[start] === "-") {
 		factor = -1;
 		start++;
-	} else if(s[start] === "+"){
+	} else if(s[start] === "+"){ // this is necessary (+ is the only other legal character that'll be skipped)
 		start++;
 	}
 
