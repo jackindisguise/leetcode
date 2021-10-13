@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/nowotato/leetcode/compare/v1.0.4...v1.0.5) (2021-10-13)
+
+
+### Bug Fixes
+
+* Added solution for 3. Longest Substring Without Repeating Characters. ([f886718](https://github.com/nowotato/leetcode/commit/f88671809606c25328bb00006e4e008e387566e7))
+* Added solution for 6. ZigZag Conversion. ([4d8e659](https://github.com/nowotato/leetcode/commit/4d8e6591b6f6d1b65db82904a0016235a3f98eb5))
+* Added solution to 4. Median of Two Sorted Arrays. (C++) ([73dd2ad](https://github.com/nowotato/leetcode/commit/73dd2ad860eb29cce435451f475a7dbd197a1159))
+* Added solution to 4. Median of Two Sorted Arrays. (JavaScript) ([8e3463a](https://github.com/nowotato/leetcode/commit/8e3463aaf47aece2b40e85700125d464bc76b9b7))
+
 ### [1.0.4](https://github.com/nowotato/leetcode/compare/v1.0.3...v1.0.4) (2021-09-28)
 
 
