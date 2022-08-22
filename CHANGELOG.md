@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/nowotato/leetcode/compare/v1.0.5...v1.1.0) (2022-08-22)
+
+
+### Features
+
+* Added solution to 217. Contains Duplicate. ([67fff18](https://github.com/nowotato/leetcode/commit/67fff1872ddf71585710150ef56649a0bafc6874))
+* Added solution to 238. Product of Array Except Self. ([97a80e1](https://github.com/nowotato/leetcode/commit/97a80e16dbf9b566ff49a8bc3c42b8d12aa285c3))
+
+
+### Bug Fixes
+
+* Added a comment. ([0dccd48](https://github.com/nowotato/leetcode/commit/0dccd485a812db6c0da9c63720552fa542dd02ea))
+* Added comments. ([4b66112](https://github.com/nowotato/leetcode/commit/4b66112a5fad885fc44b9ff8efeb7260764ed49b))
+* Added original solution to [#4](https://github.com/nowotato/leetcode/issues/4). ([c23d74b](https://github.com/nowotato/leetcode/commit/c23d74b345d65d42cd9b25c3a40a57a460df5985))
+
 ### [1.0.5](https://github.com/nowotato/leetcode/compare/v1.0.4...v1.0.5) (2021-10-13)
 
 
