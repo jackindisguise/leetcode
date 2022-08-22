@@ -27,7 +27,6 @@ var findMedianSortedArrays = function(nums1, nums2) {
             saved = nums2[j];
             j++;
         }
-        console.log(saved);
     }
 
     // average median numbers when even
