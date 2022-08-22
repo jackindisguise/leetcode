@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/nowotato/leetcode/compare/v1.1.0...v1.1.1) (2022-08-22)
+
+
+### Bug Fixes
+
+* Removed debug message from 004. ([9f1d990](https://github.com/nowotato/leetcode/commit/9f1d99013fed4f9e4abefaf13f01a9c05860fbbc))
+
 ## [1.1.0](https://github.com/nowotato/leetcode/compare/v1.0.5...v1.1.0) (2022-08-22)
 
 

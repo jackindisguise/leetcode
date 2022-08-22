@@ -1,6 +1,6 @@
 {
   "name": "leetcode",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Solutions to leetcode problems.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
