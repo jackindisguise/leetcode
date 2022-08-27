@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/nowotato/leetcode/compare/v1.2.0...v1.3.0) (2022-08-27)
+
+
+### Features
+
+* Added solution for 374. Guess Number Higher or Lower. ([9da5580](https://github.com/nowotato/leetcode/commit/9da5580180fe00e8625f17442432ec2ff9fc4b2f))
+* Added solution to 22. Generate Parentheses. ([451d630](https://github.com/nowotato/leetcode/commit/451d630d097e3bbb0548053215a76f7a9a9b2b46))
+* Added solution to 392. Is Subsequence. ([00494c2](https://github.com/nowotato/leetcode/commit/00494c2fbf7ad0b25c0e2f55e9cf83e06068babf))
+* Added two solutions to 205. Isomorphic Strings. ([047ef10](https://github.com/nowotato/leetcode/commit/047ef10fffb48f9d3858a07a9a0b04096e1f997d))
+
+
+### Bug Fixes
+
+* Over-engineered solution for sake of readability. ([9907f31](https://github.com/nowotato/leetcode/commit/9907f3144b77f72d68fcbbc98e3e9d4b5501c8b1))
+* Small optimization. Odd numbers are always invalid. ([4709b48](https://github.com/nowotato/leetcode/commit/4709b4825dc04bf00fc4fe0d298243be0f529687))
+
 ## [1.2.0](https://github.com/nowotato/leetcode/compare/v1.1.1...v1.2.0) (2022-08-27)
 
 
