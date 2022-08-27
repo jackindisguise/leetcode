@@ -27,7 +27,7 @@ var isValid = function(s) {
  */
 var generateParenthesis = function(n) {
     let brackets = [];
-    for(let i=Math.pow(2,n*2-1), end=i*2;i<end;i++){
+    for(let i=Math.pow(2,n*2-1), end=i*2;i<end;i+=2){
         let parens = dec2paren(i);
         if(isValid(parens)) brackets.push(parens);
     }
