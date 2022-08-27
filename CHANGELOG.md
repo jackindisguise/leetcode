@@ -2,6 +2,45 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/nowotato/leetcode/compare/v1.0.1...v1.4.0) (2022-08-27)
+
+
+### Features
+
+* Added original solution to [#4](https://github.com/nowotato/leetcode/issues/4). ([7c43992](https://github.com/nowotato/leetcode/commit/7c4399234d664269777f6b0e79950f3726c882ff))
+* Added solution 2. Add Two Numbers. ([0f9e0bd](https://github.com/nowotato/leetcode/commit/0f9e0bd3ba9a26cc410894766eab54885f29f03e))
+* Added solution for 11. Container With Most Water. ([ba9bdbc](https://github.com/nowotato/leetcode/commit/ba9bdbca0c7e033eb68fcfa52b7174a7a72bcf36))
+* Added solution for 3. Longest Substring Without Repeating Characters. ([9c6ed3d](https://github.com/nowotato/leetcode/commit/9c6ed3d2faf7c183d42af4da932a9456c9cab841))
+* Added solution for 374. Guess Number Higher or Lower. ([daf64e5](https://github.com/nowotato/leetcode/commit/daf64e54d31d5ab4848083e9f959140029c4ad9b))
+* Added solution for 6. ZigZag Conversion. ([2a57e4a](https://github.com/nowotato/leetcode/commit/2a57e4afd995371c5fccb51f0926671867661632))
+* Added solution that doesn't use regex to 8. String to Integer (atoi). ([2c45d04](https://github.com/nowotato/leetcode/commit/2c45d04f62f90c2398b7bc268bc92e2d156d22b2))
+* Added solution to 10. Regular Expression Matching. ([eef4004](https://github.com/nowotato/leetcode/commit/eef4004900ee63f354b08caa64156240fcc58f76))
+* Added solution to 12. Integer to Roman. ([b96fa36](https://github.com/nowotato/leetcode/commit/b96fa3668a5fecf61151b2d72359bac5fff8cd12))
+* Added solution to 14. Longest Common Prefix. ([7f49854](https://github.com/nowotato/leetcode/commit/7f49854d598f7f73de3cd6a78cd1ea4bfc55819f))
+* Added solution to 20. Valid Parentheses. ([437d3a3](https://github.com/nowotato/leetcode/commit/437d3a347b72c43f654a13aa9ba37eb122866765))
+* Added solution to 217. Contains Duplicate. ([da6683e](https://github.com/nowotato/leetcode/commit/da6683ebe182e64472e590b33334ca2eab521443))
+* Added solution to 22. Generate Parentheses. ([196b274](https://github.com/nowotato/leetcode/commit/196b274224310ed612f220f387cf8c50e6d8d91e))
+* Added solution to 235. Lowest Common Ancestor of a Binary ... ([add0ab6](https://github.com/nowotato/leetcode/commit/add0ab63dba45f9b5a530f8c114e746b17f46e6a))
+* Added solution to 238. Product of Array Except Self. ([57d0272](https://github.com/nowotato/leetcode/commit/57d0272103100884ec6b896100fba68ddac8a055))
+* Added solution to 392. Is Subsequence. ([fc1468d](https://github.com/nowotato/leetcode/commit/fc1468dfc05dd6486c40d5f194ecd81d58909c5f))
+* Added solution to 4. Median of Two Sorted Arrays. (C++) ([85523c3](https://github.com/nowotato/leetcode/commit/85523c38badefa13a050fda1d56827a794e82fb5))
+* Added solution to 4. Median of Two Sorted Arrays. (JavaScript) ([a37400b](https://github.com/nowotato/leetcode/commit/a37400b19d51944077271259f08045119d50b0ee))
+* Added solution to 704. Binary Search. ([dc3ac0d](https://github.com/nowotato/leetcode/commit/dc3ac0d214795ef43614efc8012098e79eadaf1e))
+* Added solution to 8. String to Integer (atoi). ([1e9de93](https://github.com/nowotato/leetcode/commit/1e9de93329426dffc94ace6b8612c33a59caf96b))
+* Added two solutions to 205. Isomorphic Strings. ([6a211d6](https://github.com/nowotato/leetcode/commit/6a211d689fe7d3dea1c7baf5e7c2e29316482ad3))
+
+
+### Bug Fixes
+
+* Added a comment. ([9ae3dce](https://github.com/nowotato/leetcode/commit/9ae3dce425a4d2ff0479000329a2f9634350ad9e))
+* Added comments to 14. ([742e30b](https://github.com/nowotato/leetcode/commit/742e30b07b13992508f984d90b77b2e459cce18a))
+* Added comments. ([ceb6b5e](https://github.com/nowotato/leetcode/commit/ceb6b5ec079986fae1141ebb6082740f15fc0303))
+* Over-engineered solution for sake of readability. ([9b1b06f](https://github.com/nowotato/leetcode/commit/9b1b06f7ae02af1375d01f8a7cc19027a670f510))
+* Removed debug message from 004. ([7a5b3d0](https://github.com/nowotato/leetcode/commit/7a5b3d08e55949bd1d7ac59beb7126a91aef87b7))
+* removed debug message; ([9132cac](https://github.com/nowotato/leetcode/commit/9132cac624eda6a7c081b21833df2edbf3b716a1))
+* Removed unnecessary variable definitions. ([560272d](https://github.com/nowotato/leetcode/commit/560272d5467fab202b0c433c945935db8a67efb9))
+* Small optimization. Odd numbers are always invalid. ([2dcab5c](https://github.com/nowotato/leetcode/commit/2dcab5cddaccba4a130d45204d66d08855cf08fa))
+
 ## [1.3.0](https://github.com/nowotato/leetcode/compare/v1.2.0...v1.3.0) (2022-08-27)
 
 
