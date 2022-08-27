@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/nowotato/leetcode/compare/v1.1.1...v1.2.0) (2022-08-27)
+
+
+### Features
+
+* Added solution to 14. Longest Common Prefix. ([cc9327c](https://github.com/nowotato/leetcode/commit/cc9327c984f1f2c2ddb8599e7f7e1e3d18fe239b))
+* Added solution to 20. Valid Parentheses. ([0d034b8](https://github.com/nowotato/leetcode/commit/0d034b8d472885044a3f195f4cc4fbb7f2af3590))
+* Added solution to 235. Lowest Common Ancestor of a Binary ... ([84ac932](https://github.com/nowotato/leetcode/commit/84ac932548ea6cf9ae9b8d2966816c13a944d720))
+* Added solution to 704. Binary Search. ([c608179](https://github.com/nowotato/leetcode/commit/c6081793f8d17fe05642e9b0eee7444573b91bd4))
+
+
+### Bug Fixes
+
+* Added comments to 14. ([524d497](https://github.com/nowotato/leetcode/commit/524d497c00ae9e8ce8de7869a3283f3a73992314))
+
 ### [1.1.1](https://github.com/nowotato/leetcode/compare/v1.1.0...v1.1.1) (2022-08-22)
 
 
