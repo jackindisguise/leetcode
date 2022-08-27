@@ -13,7 +13,7 @@ var longestCommonPrefix = function(strs) {
         match = Math.min(match, str.length); // only start comparison from the end of the known match length so far (unless this string is shorter)
 		// starting from the back, if any character doesn't match, that is the new end of the matching length
         for(let j=match-1;j>=0;j--) if(str[j] != root[j]) match=j;
-        if(match===0) return "";
+        if(match===0) return ""; // there is no contiguous matching set of characters starting from 0 -- therefore there is no common prefix.
     }
 
     return root.substring(0,match);
