@@ -25,7 +25,11 @@ function add2ll(ll,val){
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    let s = l1; // save starting position
+    // we'll add l2 to l1 instead of making a new list
+    // this also saves us from having to do unnecessary work, though it's not particularly smart.
+    // in the case of ([0,0,0,1], [1]), we only have to add [0] and [1] and can return the number
+    // in the case of ([1], [0,0,0,1]), we have to add [0] and [1], as well as create 3 new nodes for [0,0,1].
+    let s = l1; // save starting position of l1
     while(l2){ // while we have positions to read
         add2ll(l1, l2.val);
         if(!l2.next) break;

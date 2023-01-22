@@ -9,14 +9,14 @@ var lengthOfLongestSubstring = function(s) {
         // (if we're looking starting at position 6 and we have a substring
         // that's 5 characters long in an 8 character long string, we aren't
         // finding a longer one.)
-    	const map = {}; // simple map of characters starting at i
+		const seq = []; // arrays are cheaper than maps
         let j=i;
 		for(j;j<s.length;j++){
-            if(map[s[j]] === undefined) map[s[j]] = j;
-            else break;
+			if(seq.indexOf(s[j]) !== -1) break;
+			seq.push(s[j]);
 		}
 
-		if(j-i > longest) longest = j-i;
+		if(seq.length > longest) longest = seq.length;
 	}
 
     return longest;
